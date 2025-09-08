@@ -23,17 +23,7 @@ Language: Python
 
 Storage: JSON file
 
-▶️ How to Run
 
-Clone the repository:
-
-git clone https://github.com/your-username/task-manager.git
-cd task-manager
-
-
-Run the program:
-
-python main.py
 
 
 Use the menu options to manage your tasks.
